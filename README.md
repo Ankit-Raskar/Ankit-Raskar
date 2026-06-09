@@ -1,7 +1,7 @@
 # Hi there, I'm Ankit Raskar 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=250&section=header&text=AI%20%26%20Full-Stack%20Developer&fontSize=50&fontAlignY=40&desc=Building%20Intelligent%20Products&descAlignY=55&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ankit%20Raskar&fontSize=80&desc=AI%20and%20Full-Stack%20Developer&descAlignY=75&descAlign=50" alt="Header Banner" />
 </div>
 
 ### 🚀 About Me
@@ -11,6 +11,11 @@
 - 🔭 Currently developing **[CodeSentinel AI](https://github.com/Ankit-Raskar/codesentinel-ai)** — an automated, enterprise-grade PR security reviewer.
 - 📫 How to reach me: [ankitraskar01@gmail.com](mailto:ankitraskar01@gmail.com)
 - 🔗 Check out my Work: [Live Portfolio Website](https://github.com/Ankit-Raskar/Portfolio-Website)
+
+---
+
+### 🌟 Future Goals & Vision
+"My goal is to become a Software Engineer and AI Developer who builds innovative products that create meaningful real-world impact. I aspire to contribute to cutting-edge technology, continuously learn, and develop solutions that improve how people work, learn, and interact with technology."
 
 ---
 
