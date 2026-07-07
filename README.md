@@ -28,7 +28,7 @@
 <!-- ━━━━━━ ABOUT — PROFILE CARD LAYOUT ━━━━━━ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=ABOUT%20ME&fontSize=44&fontWeight=800&height=70&width=320&animation=fadeIn" alt="About Me">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=240&lines=ABOUT+ME;%F0%9F%91%8B+ABOUT+ME" alt="About Me" />
 
 </div>
 
@@ -95,7 +95,7 @@ vibe:           "Always shipping · Always learning"
 <!-- ━━━━━━ TECH ARSENAL · v5 FLOWING DESIGN (no boxes) ━━━━━━ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=TECH%20ARSENAL&fontSize=48&fontWeight=800&height=75&width=400&animation=fadeIn" alt="Tech Arsenal">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=320&lines=TECH+ARSENAL;%E2%9A%94%EF%B8%8F+TECH+ARSENAL" alt="Tech Arsenal" />
 
 <br>
 
@@ -321,7 +321,7 @@ vibe:           "Always shipping · Always learning"
 <!-- ━━━━━━ FEATURED BUILDS ━━━━━━ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=FEATURED%20BUILDS&fontSize=44&fontWeight=800&height=70&width=420&animation=fadeIn" alt="Featured Builds">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=F7B538&center=true&vCenter=true&width=340&lines=FEATURED+BUILDS;%F0%9F%9A%80+FEATURED+BUILDS" alt="Featured Builds" />
 
 <sub><i>★ Products I've shipped · AI integrations · Premium UI ★</i></sub>
 
@@ -462,7 +462,7 @@ Generates refreshing tokens to track daily class attendance and logs data to loc
 <!-- ━━━━━━ GITHUB STATS ━━━━━━ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=GITHUB%20STATS&fontSize=44&fontWeight=800&height=70&width=360&animation=fadeIn" alt="GitHub Stats">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=300&lines=GITHUB+STATS;%F0%9F%93%8A+GITHUB+STATS" alt="GitHub Stats" />
 
 <sub><i>★ Live contribution data · Updates every few hours ★</i></sub>
 
@@ -508,7 +508,7 @@ Generates refreshing tokens to track daily class attendance and logs data to loc
 <!-- ━━━━━━ JOURNEY TIMELINE ━━━━━━ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=THE%20JOURNEY&fontSize=44&fontWeight=800&height=70&width=340&animation=fadeIn" alt="Journey">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=280&lines=THE+JOURNEY;%F0%9F%A7%AD+THE+JOURNEY" alt="Journey" />
 
 <sub><i>★ From curious beginner to AI engineer ★</i></sub>
 
@@ -575,7 +575,7 @@ Specializing in **production-grade AI-powered applications**, advanced full-stac
 <!-- ━━━━━━ CONNECT ━━━━━━ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=LET%27S%20CONNECT&fontSize=44&fontWeight=800&height=70&width=360&animation=fadeIn" alt="Connect">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=300&lines=LET%27S+CONNECT;%F0%9F%A4%9D+LET%27S+CONNECT" alt="Connect" />
 
 <sub><i>★ Open to collaborations · Let's build something great ★</i></sub>
 
