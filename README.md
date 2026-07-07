@@ -35,40 +35,24 @@
 ---
 
 ### 🔥 Featured Projects
-<p align="center">
-  <a href="https://github.com/Ankit-Raskar/codesentinel-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=codesentinel-ai&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
-  </a>
-  <a href="https://github.com/Ankit-Raskar/CareerNova-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=CareerNova-AI&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ankit-Raskar/VAPOR_Game_Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=VAPOR_Game_Store&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
-  </a>
-  <a href="https://github.com/Ankit-Raskar/Visored">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=Visored&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ankit-Raskar/Student_Attendance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=Student_Attendance&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
-  </a>
-</p>
+* 🛡️ **[CodeSentinel AI](https://github.com/Ankit-Raskar/codesentinel-ai)**: Enterprise-grade agentic PR reviewer. Automatically analyzes GitHub pull requests using Llama 3.3 70B via Groq to catch critical security flaws in real-time.
+* 👔 **[CareerNova AI](https://github.com/Ankit-Raskar/CareerNova-AI)**: Intelligent AI-powered career counselor & developer profiling assistant. Matches job metrics and suggests deep learning pathways.
+* 🎮 **[VAPOR Game Store](https://github.com/Ankit-Raskar/VAPOR_Game_Store)**: Full-stack PC gaming portal and e-commerce client featuring dynamic cart processing and game libraries.
+* 👁️ **[Visored Developer Tool](https://github.com/Ankit-Raskar/Visored)**: Advanced code scanning application providing helper assets for tracking UI component behaviors.
+* 🏫 **[Student Attendance Portal](https://github.com/Ankit-Raskar/Student_Attendance)**: Check-in manager utilizing dynamically refreshing QR tokens to track and log class attendance into databases.
 
 ---
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Raskar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Raskar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Raskar&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Raskar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;cache_seconds=86400" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Raskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
 </div>
 
 ---
