@@ -92,7 +92,7 @@ vibe:           "Always shipping · Always learning"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ━━━━━━ TECH ARSENAL · v3 PREMIUM DESIGN ━━━━━━ -->
+<!-- ━━━━━━ TECH ARSENAL · v4 PREMIUM DASHBOARD DESIGN ━━━━━━ -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=320&lines=TECH+ARSENAL;%E2%9A%94%EF%B8%8F+TECH+ARSENAL" alt="Tech Arsenal" />
@@ -101,33 +101,109 @@ vibe:           "Always shipping · Always learning"
 
 <br><br>
 
-</div>
-
-<!-- ── DAILY DRIVERS HIGHLIGHT ── -->
-<div align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_DAILY_DRIVERS-Top%20Tools%20I%20Use%20Daily-F7B538?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,supabase,vscode,git&perline=8&theme=dark" alt="Daily Drivers">
-
-<br><br>
+<!-- Stats summary bar -->
+<a href="#"><img src="https://img.shields.io/badge/%F0%9F%92%BB_Active_Stack-25%2B_Tools-8B5CF6?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
+<a href="#"><img src="https://img.shields.io/badge/%F0%9F%93%9A_Categories-04_Core-10B981?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
+<a href="#"><img src="https://img.shields.io/badge/%E2%9A%A1_Daily_Driver-VS_Code-F7B538?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
+<a href="#"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Deploy_On-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
 
 </div>
 
-<!-- ── FRONTEND CARD ── -->
+<br>
+
+<!-- ════════ TOP 4 DAILY DRIVERS — Premium Strip ════════ -->
 <table>
 <tr>
 <td width="100%" bgcolor="0A0E1A">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%A8_FRONTEND-The_Pixel_Perfect_Layer-6366F1?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
+<br>
+
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_TOP_DAILY_DRIVERS-Most_Used_Tools-F7B538?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer&perline=8&theme=dark" alt="Frontend">
+<table>
+<tr>
+<td width="25%" align="center" bgcolor="1E1B4B">
+
+<img src="https://skillicons.dev/icons?i=react" height="56" alt="React">
+<br><br>
+<b><font color="#61DAFB">React</font></b>
+<br>
+<sub>The UI engine</sub>
+<br>
+<code>▰▰▰▰▰</code>
+
+</td>
+<td width="25%" align="center" bgcolor="1E1B4B">
+
+<img src="https://skillicons.dev/icons?i=typescript" height="56" alt="TypeScript">
+<br><br>
+<b><font color="#3178C6">TypeScript</font></b>
+<br>
+<sub>Type-safety first</sub>
+<br>
+<code>▰▰▰▰▱</code>
+
+</td>
+<td width="25%" align="center" bgcolor="1E1B4B">
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="56" alt="Tailwind">
+<br><br>
+<b><font color="#06B6D4">Tailwind</font></b>
+<br>
+<sub>Styling at speed</sub>
+<br>
+<code>▰▰▰▰▰</code>
+
+</td>
+<td width="25%" align="center" bgcolor="1E1B4B">
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="56" alt="Node.js">
+<br><br>
+<b><font color="#339933">Node.js</font></b>
+<br>
+<sub>Backend runtime</sub>
+<br>
+<code>▰▰▰▰▱</code>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ════════ CATEGORY 01 — FRONTEND ════════ -->
+<table>
+<tr>
+<td width="3%" bgcolor="6366F1" align="center">
+<b><font color="FFFFFF" size="5">01</font></b>
+</td>
+<td width="97%" bgcolor="0A0E1A">
+
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8_FRONTEND-The_Pixel_Perfect_Layer-6366F1?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Tools-08-6366F1?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Mastery-Advanced-6366F1?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer&perline=8&theme=dark" alt="Frontend stack">
 
 <br><br>
 
@@ -135,18 +211,18 @@ vibe:           "Always shipping · Always learning"
 <tr>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code> &nbsp;HTML5 &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></code> &nbsp;CSS3 &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></code> &nbsp;JavaScript &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"></code> &nbsp;TypeScript &nbsp;`●●●●○`
+<code><img height="14" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code> &nbsp;HTML5 &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></code> &nbsp;CSS3 &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></code> &nbsp;JavaScript &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"></code> &nbsp;TypeScript &nbsp;<font color="6366F1">▰▰▰▰▱</font>
 
 </td>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></code> &nbsp;React &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></code> &nbsp;Next.js &nbsp;`●●●●○`  
-<code><img height="14" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></code> &nbsp;Tailwind &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"></code> &nbsp;Framer Motion &nbsp;`●●●○○`
+<code><img height="14" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></code> &nbsp;React &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></code> &nbsp;Next.js &nbsp;<font color="6366F1">▰▰▰▰▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></code> &nbsp;Tailwind &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"></code> &nbsp;Framer Motion &nbsp;<font color="6366F1">▰▰▰▱▱</font>
 
 </td>
 </tr>
@@ -154,6 +230,8 @@ vibe:           "Always shipping · Always learning"
 
 <sub><i>UI · Animations · Accessibility · Glassmorphism · Dark Mode</i></sub>
 
+<br>
+
 </div>
 
 </td>
@@ -162,18 +240,27 @@ vibe:           "Always shipping · Always learning"
 
 <br>
 
-<!-- ── BACKEND CARD ── -->
+<!-- ════════ CATEGORY 02 — BACKEND ════════ -->
 <table>
 <tr>
-<td width="100%" bgcolor="0A0E1A">
+<td width="3%" bgcolor="10B981" align="center">
+<b><font color="FFFFFF" size="5">02</font></b>
+</td>
+<td width="97%" bgcolor="0A0E1A">
 
 <div align="center">
 
+<br>
+
 <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_BACKEND-The_Engine_Room-10B981?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Tools-08-10B981?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Mastery-Advanced-10B981?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,supabase,postman,redis&perline=8&theme=dark" alt="Backend">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,supabase,postman,redis&perline=8&theme=dark" alt="Backend stack">
 
 <br><br>
 
@@ -181,18 +268,18 @@ vibe:           "Always shipping · Always learning"
 <tr>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"></code> &nbsp;Node.js &nbsp;`●●●●○`  
-<code><img height="14" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"></code> &nbsp;Express.js &nbsp;`●●●●○`  
-<code><img height="14" src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white"></code> &nbsp;REST APIs &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></code> &nbsp;MongoDB &nbsp;`●●●●○`
+<code><img height="14" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"></code> &nbsp;Node.js &nbsp;<font color="10B981">▰▰▰▰▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"></code> &nbsp;Express.js &nbsp;<font color="10B981">▰▰▰▰▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white"></code> &nbsp;REST APIs &nbsp;<font color="10B981">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></code> &nbsp;MongoDB &nbsp;<font color="10B981">▰▰▰▰▱</font>
 
 </td>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></code> &nbsp;MySQL &nbsp;`●●●○○`  
-<code><img height="14" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"></code> &nbsp;Supabase &nbsp;`●●●●○`  
-<code><img height="14" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white"></code> &nbsp;PostgreSQL &nbsp;`●●●○○`  
-<code><img height="14" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></code> &nbsp;Postman &nbsp;`●●●●●`
+<code><img height="14" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></code> &nbsp;MySQL &nbsp;<font color="10B981">▰▰▰▱▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"></code> &nbsp;Supabase &nbsp;<font color="10B981">▰▰▰▰▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white"></code> &nbsp;PostgreSQL &nbsp;<font color="10B981">▰▰▰▱▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></code> &nbsp;Postman &nbsp;<font color="10B981">▰▰▰▰▰</font>
 
 </td>
 </tr>
@@ -200,6 +287,8 @@ vibe:           "Always shipping · Always learning"
 
 <sub><i>APIs · Databases · Persistence · Auth · Indexing</i></sub>
 
+<br>
+
 </div>
 
 </td>
@@ -208,18 +297,27 @@ vibe:           "Always shipping · Always learning"
 
 <br>
 
-<!-- ── AI / LLM CARD ── -->
+<!-- ════════ CATEGORY 03 — AI / LLMs ════════ -->
 <table>
 <tr>
-<td width="100%" bgcolor="0A0E1A">
+<td width="3%" bgcolor="8B5CF6" align="center">
+<b><font color="FFFFFF" size="5">03</font></b>
+</td>
+<td width="97%" bgcolor="0A0E1A">
 
 <div align="center">
 
+<br>
+
 <img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_%C2%B7_LLMs-The_Brain-8B5CF6?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Tools-06-8B5CF6?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Mastery-Intermediate%2B-8B5CF6?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=openai,py,tensorflow,postgres&perline=4&theme=dark" alt="AI">
+<img src="https://skillicons.dev/icons?i=openai,py,tensorflow,postgres&perline=4&theme=dark" alt="AI stack">
 
 <br><br>
 
@@ -227,16 +325,16 @@ vibe:           "Always shipping · Always learning"
 <tr>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"></code> &nbsp;OpenAI API &nbsp;`●●●●○`  
-<code><img height="14" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"></code> &nbsp;Google Gemini &nbsp;`●●●○○`  
-<code><img height="14" src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"></code> &nbsp;Groq LLM &nbsp;`●●●●○`
+<code><img height="14" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"></code> &nbsp;OpenAI API &nbsp;<font color="8B5CF6">▰▰▰▰▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"></code> &nbsp;Google Gemini &nbsp;<font color="8B5CF6">▰▰▰▱▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"></code> &nbsp;Groq LLM &nbsp;<font color="8B5CF6">▰▰▰▰▱</font>
 
 </td>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/Prompt-F7B538?style=flat-square&logo=probot&logoColor=black"></code> &nbsp;Prompt Engineering &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/RAG-EC4899?style=flat-square&logo=huggingface&logoColor=white"></code> &nbsp;RAG Pipelines &nbsp;`●●●○○`  
-<code><img height="14" src="https://img.shields.io/badge/LLM-6366F1?style=flat-square&logo=semanticrelease&logoColor=white"></code> &nbsp;LLM Streaming &nbsp;`●●●●○`
+<code><img height="14" src="https://img.shields.io/badge/Prompt-F7B538?style=flat-square&logo=probot&logoColor=black"></code> &nbsp;Prompt Engineering &nbsp;<font color="8B5CF6">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/RAG-EC4899?style=flat-square&logo=huggingface&logoColor=white"></code> &nbsp;RAG Pipelines &nbsp;<font color="8B5CF6">▰▰▰▱▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/LLM-6366F1?style=flat-square&logo=semanticrelease&logoColor=white"></code> &nbsp;LLM Streaming &nbsp;<font color="8B5CF6">▰▰▰▰▱</font>
 
 </td>
 </tr>
@@ -244,6 +342,8 @@ vibe:           "Always shipping · Always learning"
 
 <sub><i>GPT · Gemini · Groq · Prompt Chains · RAG · Vector Search</i></sub>
 
+<br>
+
 </div>
 
 </td>
@@ -252,18 +352,27 @@ vibe:           "Always shipping · Always learning"
 
 <br>
 
-<!-- ── DEV TOOLS CARD ── -->
+<!-- ════════ CATEGORY 04 — DEV TOOLS ════════ -->
 <table>
 <tr>
-<td width="100%" bgcolor="0A0E1A">
+<td width="3%" bgcolor="F43F5E" align="center">
+<b><font color="FFFFFF" size="5">04</font></b>
+</td>
+<td width="97%" bgcolor="0A0E1A">
 
 <div align="center">
 
+<br>
+
 <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_DEV_TOOLS-The_Workshop-F43F5E?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Tools-08-F43F5E?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+&nbsp;
+<img src="https://img.shields.io/badge/Mastery-Expert-F43F5E?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel,githubactions,eslint,prettier&perline=8&theme=dark" alt="Dev Tools">
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel,githubactions,eslint,prettier&perline=8&theme=dark" alt="Dev tools">
 
 <br><br>
 
@@ -271,18 +380,18 @@ vibe:           "Always shipping · Always learning"
 <tr>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></code> &nbsp;VS Code &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></code> &nbsp;GitHub &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></code> &nbsp;Git &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></code> &nbsp;Figma &nbsp;`●●●●○`
+<code><img height="14" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></code> &nbsp;VS Code &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></code> &nbsp;GitHub &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></code> &nbsp;Git &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></code> &nbsp;Figma &nbsp;<font color="F43F5E">▰▰▰▰▱</font>
 
 </td>
 <td align="left" width="50%">
 
-<code><img height="14" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></code> &nbsp;Vercel &nbsp;`●●●●●`  
-<code><img height="14" src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></code> &nbsp;GitHub Actions &nbsp;`●●●○○`  
-<code><img height="14" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"></code> &nbsp;ESLint &nbsp;`●●●●○`  
-<code><img height="14" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black"></code> &nbsp;Prettier &nbsp;`●●●●●`
+<code><img height="14" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></code> &nbsp;Vercel &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
+<code><img height="14" src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></code> &nbsp;GitHub Actions &nbsp;<font color="F43F5E">▰▰▰▱▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"></code> &nbsp;ESLint &nbsp;<font color="F43F5E">▰▰▰▰▱</font>  
+<code><img height="14" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black"></code> &nbsp;Prettier &nbsp;<font color="F43F5E">▰▰▰▰▰</font>
 
 </td>
 </tr>
@@ -290,11 +399,15 @@ vibe:           "Always shipping · Always learning"
 
 <sub><i>Editor · Versioning · CI/CD · Design · Deploy · Linting</i></sub>
 
+<br>
+
 </div>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
