@@ -37,23 +37,23 @@
 ### 🔥 Featured Projects
 <p align="center">
   <a href="https://github.com/Ankit-Raskar/codesentinel-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=codesentinel-ai&theme=tokyonight&bg_color=0D1117&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=codesentinel-ai&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
   </a>
   <a href="https://github.com/Ankit-Raskar/CareerNova-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=CareerNova-AI&theme=tokyonight&bg_color=0D1117&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=CareerNova-AI&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Ankit-Raskar/VAPOR_Game_Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=VAPOR_Game_Store&theme=tokyonight&bg_color=0D1117&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=VAPOR_Game_Store&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
   </a>
   <a href="https://github.com/Ankit-Raskar/Visored">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=Visored&theme=tokyonight&bg_color=0D1117&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=Visored&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Ankit-Raskar/Student_Attendance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=Student_Attendance&theme=tokyonight&bg_color=0D1117&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&amp;repo=Student_Attendance&amp;theme=tokyonight&amp;bg_color=0D1117&amp;hide_border=true&amp;cache_seconds=86400" width="48%" />
   </a>
 </p>
 
@@ -61,14 +61,14 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Raskar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Raskar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;cache_seconds=86400" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Raskar&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Raskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Raskar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;cache_seconds=86400" width="60%" />
 </div>
 
 ---
