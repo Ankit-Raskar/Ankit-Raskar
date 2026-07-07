@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<!-- ━━━━━━ HERO WAVE ━━━━━━ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,15:1E1B4B,30:5B21B6,50:8B5CF6,70:EC4899,85:F7B538,100:0A0E1A&height=240&section=header&text=Ankit%20Raskar&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=%E2%9C%A6%20AI%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Always%20Shipping%20%E2%9C%A6&descSize=14&descColor=F7B538&descAlignY=60&animation=fadeIn&strokeColor=8B5CF6&strokeWidth=2" width="100%">
+<!-- ━━━━━━ HERO WAVE — vibrant purple→magenta→gold gradient, name color auto-changes per refresh ━━━━━━ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,15:5B21B6,30:8B5CF6,50:C2185B,70:EC4899,85:FFC107,100:2D1B69&height=260&section=header&text=Ankit%20Raskar&fontSize=72&fontColor=auto&fontAlignY=36&desc=%E2%9C%A6%20AI%20Developer%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Always%20Shipping%20%E2%9C%A6&descSize=15&descColor=FFFFFF&descAlignY=58&animation=fadeIn&strokeColor=FFFFFF&strokeWidth=1" width="100%">
 
 <!-- Multi-line typing animation -->
 <a href="https://ankit-raskar-portfolio.vercel.app/">
@@ -624,7 +624,7 @@ Specializing in **production-grade AI-powered applications**, advanced full-stac
 <br><br>
 
 <!-- Capsule footer with gradient wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,15:1E1B4B,30:5B21B6,50:8B5CF6,70:EC4899,85:F7B538,100:0A0E1A&height=140&section=footer&fontSize=0&cacheSeconds=86400" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,15:5B21B6,30:8B5CF6,50:C2185B,70:EC4899,85:FFC107,100:2D1B69&height=160&section=footer&fontSize=0&cacheSeconds=86400" width="100%">
 
 <br>
 
