@@ -237,7 +237,7 @@ vibe:           "Always shipping · Always learning"
 <!-- ════════ 03 AI / LLMs — flowing design ════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&text=03%20%E2%80%A2%20AI%20%26%20LLMs&fontSize=30&fontWeight=800&height=55&width=380&animation=fadeIn" alt="AI">
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&text=03%20%E2%80%A2%20AI%20%C2%B7%20LLMs&fontSize=30&fontWeight=800&height=55&width=380&animation=fadeIn" alt="AI">
 
 <br>
 
