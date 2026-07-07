@@ -35,11 +35,27 @@
 ---
 
 ### 🔥 Featured Projects
-* 🛡️ **[CodeSentinel AI](https://github.com/Ankit-Raskar/codesentinel-ai)**: Enterprise-grade agentic PR reviewer. Automatically analyzes GitHub pull requests using Llama 3.3 70B via Groq to catch critical security flaws in real-time.
-* 👔 **[CareerNova AI](https://github.com/Ankit-Raskar/CareerNova-AI)**: Intelligent AI-powered career counselor & developer profiling assistant. Matches job metrics and suggests deep learning pathways.
-* 🎮 **[VAPOR Game Store](https://github.com/Ankit-Raskar/VAPOR_Game_Store)**: Full-stack PC gaming portal and e-commerce client featuring dynamic cart processing and game libraries.
-* 👁️ **[Visored Developer Tool](https://github.com/Ankit-Raskar/Visored)**: Advanced code scanning application providing helper assets for tracking UI component behaviors.
-* 🏫 **[Student Attendance Portal](https://github.com/Ankit-Raskar/Student_Attendance)**: Check-in manager utilizing dynamically refreshing QR tokens to track and log class attendance into databases.
+<p align="center">
+  <a href="https://github.com/Ankit-Raskar/codesentinel-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=codesentinel-ai&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Ankit-Raskar/CareerNova-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=CareerNova-AI&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ankit-Raskar/VAPOR_Game_Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=VAPOR_Game_Store&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Ankit-Raskar/Visored">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=Visored&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ankit-Raskar/Student_Attendance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankit-Raskar&repo=Student_Attendance&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+</p>
 
 ---
 
