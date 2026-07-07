@@ -28,7 +28,7 @@
 <!-- ━━━━━━ ABOUT — PROFILE CARD LAYOUT ━━━━━━ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=240&lines=ABOUT+ME;%F0%9F%91%8B+ABOUT+ME" alt="About Me" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=ABOUT%20ME&fontSize=44&fontWeight=800&height=70&width=320&animation=fadeIn" alt="About Me">
 
 </div>
 
@@ -92,114 +92,65 @@ vibe:           "Always shipping · Always learning"
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ━━━━━━ TECH ARSENAL · v4 PREMIUM DASHBOARD DESIGN ━━━━━━ -->
+<!-- ━━━━━━ TECH ARSENAL · v5 FLOWING DESIGN (no boxes) ━━━━━━ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=320&lines=TECH+ARSENAL;%E2%9A%94%EF%B8%8F+TECH+ARSENAL" alt="Tech Arsenal" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=TECH%20ARSENAL&fontSize=48&fontWeight=800&height=75&width=400&animation=fadeIn" alt="Tech Arsenal">
+
+<br>
 
 <sub><i>★ Tools I reach for when shipping products ★</i></sub>
 
 <br><br>
 
-<!-- Stats summary bar -->
-<a href="#"><img src="https://img.shields.io/badge/%F0%9F%92%BB_Active_Stack-25%2B_Tools-8B5CF6?style=for-the-badge&logo=shieldsdotio&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
-<a href="#"><img src="https://img.shields.io/badge/%F0%9F%93%9A_Categories-04_Core-10B981?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%9A%A1_Daily_Driver-VS_Code-F7B538?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
-<a href="#"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Deploy_On-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400" height="26"></a>
+<!-- Stats summary bar — inline pills, no box -->
+<img src="https://img.shields.io/badge/Active_Stack-25%2B_Tools-8B5CF6?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+<img src="https://img.shields.io/badge/Categories-04_Core-10B981?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+<img src="https://img.shields.io/badge/Daily_Driver-VS_Code-F7B538?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400">
+<img src="https://img.shields.io/badge/Deploy_On-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400">
+
+<br><br>
+
+<!-- ✦ TOP DAILY DRIVERS — flowing, no box ✦ -->
+<img src="https://img.shields.io/badge/%E2%9C%A6_TOP_DAILY_DRIVERS-Most_Used_Tools-F7B538?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
+
+<br><br>
+
+<!-- Flowing inline icons (no table) -->
+<img src="https://skillicons.dev/icons?i=react" height="52" alt="React"> &nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=typescript" height="52" alt="TypeScript"> &nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=tailwind" height="52" alt="Tailwind"> &nbsp;&nbsp;&nbsp; 
+<img src="https://skillicons.dev/icons?i=nodejs" height="52" alt="Node.js">
+
+<br><br>
+
+<!-- Flowing skill bars — no box -->
+<a href="#"><img src="https://img.shields.io/badge/React-▰▰▰▰▰-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-▰▰▰▰▱-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Tailwind-▰▰▰▰▰-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Node.js-▰▰▰▰▱-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
 
 </div>
 
 <br>
 
-<!-- ════════ TOP 4 DAILY DRIVERS — Premium Strip ════════ -->
-<table>
-<tr>
-<td width="100%" bgcolor="0A0E1A">
-
 <div align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_TOP_DAILY_DRIVERS-Most_Used_Tools-F7B538?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
-
-<br><br>
-
-<table>
-<tr>
-<td width="25%" align="center" bgcolor="1E1B4B">
-
-<img src="https://skillicons.dev/icons?i=react" height="56" alt="React">
-<br><br>
-<b><font color="#61DAFB">React</font></b>
-<br>
-<sub>The UI engine</sub>
-<br>
-<code>▰▰▰▰▰</code>
-
-</td>
-<td width="25%" align="center" bgcolor="1E1B4B">
-
-<img src="https://skillicons.dev/icons?i=typescript" height="56" alt="TypeScript">
-<br><br>
-<b><font color="#3178C6">TypeScript</font></b>
-<br>
-<sub>Type-safety first</sub>
-<br>
-<code>▰▰▰▰▱</code>
-
-</td>
-<td width="25%" align="center" bgcolor="1E1B4B">
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="56" alt="Tailwind">
-<br><br>
-<b><font color="#06B6D4">Tailwind</font></b>
-<br>
-<sub>Styling at speed</sub>
-<br>
-<code>▰▰▰▰▰</code>
-
-</td>
-<td width="25%" align="center" bgcolor="1E1B4B">
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="56" alt="Node.js">
-<br><br>
-<b><font color="#339933">Node.js</font></b>
-<br>
-<sub>Backend runtime</sub>
-<br>
-<code>▰▰▰▰▱</code>
-
-</td>
-</tr>
-</table>
-
-<br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
 </div>
 
-</td>
-</tr>
-</table>
-
 <br>
 
-<!-- ════════ CATEGORY 01 — FRONTEND ════════ -->
-<table>
-<tr>
-<td width="3%" bgcolor="6366F1" align="center">
-<b><font color="FFFFFF" size="5">01</font></b>
-</td>
-<td width="97%" bgcolor="0A0E1A">
-
+<!-- ════════ 01 FRONTEND — flowing design ════════ -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6366F1&text=01%20%E2%80%A2%20FRONTEND&fontSize=30&fontWeight=800&height=55&width=360&animation=fadeIn" alt="Frontend">
+
 <br>
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%A8_FRONTEND-The_Pixel_Perfect_Layer-6366F1?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Tools-08-6366F1?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Mastery-Advanced-6366F1?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+<sub><i>The Pixel-Perfect Layer — UI · Animations · Accessibility</i></sub>
 
 <br><br>
 
@@ -207,56 +158,45 @@ vibe:           "Always shipping · Always learning"
 
 <br><br>
 
-<table>
-<tr>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code> &nbsp;HTML5 &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></code> &nbsp;CSS3 &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></code> &nbsp;JavaScript &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white"></code> &nbsp;TypeScript &nbsp;<font color="6366F1">▰▰▰▰▱</font>
-
-</td>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></code> &nbsp;React &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></code> &nbsp;Next.js &nbsp;<font color="6366F1">▰▰▰▰▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></code> &nbsp;Tailwind &nbsp;<font color="6366F1">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"></code> &nbsp;Framer Motion &nbsp;<font color="6366F1">▰▰▰▱▱</font>
-
-</td>
-</tr>
-</table>
-
-<sub><i>UI · Animations · Accessibility · Glassmorphism · Dark Mode</i></sub>
-
+<!-- Inline skill rows — flowing, no table -->
+<a href="#"><img src="https://img.shields.io/badge/HTML5-▰▰▰▰▰-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/CSS3-▰▰▰▰▰-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
 <br>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-▰▰▰▰▰-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-▰▰▰▰▱-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/React-▰▰▰▰▰-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Next.js-▰▰▰▰▱-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-▰▰▰▰▰-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Framer_Motion-▰▰▰▱▱-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+
+<br><br>
+
+<sub><i>HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind · Framer</i></sub>
 
 </div>
 
-</td>
-</tr>
-</table>
-
 <br>
-
-<!-- ════════ CATEGORY 02 — BACKEND ════════ -->
-<table>
-<tr>
-<td width="3%" bgcolor="10B981" align="center">
-<b><font color="FFFFFF" size="5">02</font></b>
-</td>
-<td width="97%" bgcolor="0A0E1A">
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_BACKEND-The_Engine_Room-10B981?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Tools-08-10B981?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Mastery-Advanced-10B981?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+<!-- ════════ 02 BACKEND — flowing design ════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=10B981&text=02%20%E2%80%A2%20BACKEND&fontSize=30&fontWeight=800&height=55&width=320&animation=fadeIn" alt="Backend">
+
+<br>
+
+<sub><i>The Engine Room — APIs · Databases · Persistence · Auth</i></sub>
 
 <br><br>
 
@@ -264,56 +204,44 @@ vibe:           "Always shipping · Always learning"
 
 <br><br>
 
-<table>
-<tr>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"></code> &nbsp;Node.js &nbsp;<font color="10B981">▰▰▰▰▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"></code> &nbsp;Express.js &nbsp;<font color="10B981">▰▰▰▰▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white"></code> &nbsp;REST APIs &nbsp;<font color="10B981">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></code> &nbsp;MongoDB &nbsp;<font color="10B981">▰▰▰▰▱</font>
-
-</td>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></code> &nbsp;MySQL &nbsp;<font color="10B981">▰▰▰▱▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"></code> &nbsp;Supabase &nbsp;<font color="10B981">▰▰▰▰▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white"></code> &nbsp;PostgreSQL &nbsp;<font color="10B981">▰▰▰▱▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></code> &nbsp;Postman &nbsp;<font color="10B981">▰▰▰▰▰</font>
-
-</td>
-</tr>
-</table>
-
-<sub><i>APIs · Databases · Persistence · Auth · Indexing</i></sub>
-
+<a href="#"><img src="https://img.shields.io/badge/Node.js-▰▰▰▰▱-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Express.js-▰▰▰▰▱-000000?style=flat-square&logo=express&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
 <br>
+<a href="#"><img src="https://img.shields.io/badge/REST_APIs-▰▰▰▰▰-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-▰▰▰▰▱-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-▰▰▰▱▱-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Supabase-▰▰▰▰▱-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-▰▰▰▱▱-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Postman-▰▰▰▰▰-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+
+<br><br>
+
+<sub><i>Node · Express · REST · MongoDB · MySQL · Supabase · PostgreSQL · Postman</i></sub>
 
 </div>
 
-</td>
-</tr>
-</table>
-
 <br>
-
-<!-- ════════ CATEGORY 03 — AI / LLMs ════════ -->
-<table>
-<tr>
-<td width="3%" bgcolor="8B5CF6" align="center">
-<b><font color="FFFFFF" size="5">03</font></b>
-</td>
-<td width="97%" bgcolor="0A0E1A">
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/%F0%9F%A4%96_AI_%C2%B7_LLMs-The_Brain-8B5CF6?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Tools-06-8B5CF6?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Mastery-Intermediate%2B-8B5CF6?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+<!-- ════════ 03 AI / LLMs — flowing design ════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&text=03%20%E2%80%A2%20AI%20%26%20LLMs&fontSize=30&fontWeight=800&height=55&width=380&animation=fadeIn" alt="AI">
+
+<br>
+
+<sub><i>The Brain — GPT · Gemini · Groq · Prompt Chains · RAG · Vector Search</i></sub>
 
 <br><br>
 
@@ -321,54 +249,40 @@ vibe:           "Always shipping · Always learning"
 
 <br><br>
 
-<table>
-<tr>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"></code> &nbsp;OpenAI API &nbsp;<font color="8B5CF6">▰▰▰▰▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"></code> &nbsp;Google Gemini &nbsp;<font color="8B5CF6">▰▰▰▱▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"></code> &nbsp;Groq LLM &nbsp;<font color="8B5CF6">▰▰▰▰▱</font>
-
-</td>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/Prompt-F7B538?style=flat-square&logo=probot&logoColor=black"></code> &nbsp;Prompt Engineering &nbsp;<font color="8B5CF6">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/RAG-EC4899?style=flat-square&logo=huggingface&logoColor=white"></code> &nbsp;RAG Pipelines &nbsp;<font color="8B5CF6">▰▰▰▱▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/LLM-6366F1?style=flat-square&logo=semanticrelease&logoColor=white"></code> &nbsp;LLM Streaming &nbsp;<font color="8B5CF6">▰▰▰▰▱</font>
-
-</td>
-</tr>
-</table>
-
-<sub><i>GPT · Gemini · Groq · Prompt Chains · RAG · Vector Search</i></sub>
-
+<a href="#"><img src="https://img.shields.io/badge/OpenAI_API-▰▰▰▰▱-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Google_Gemini-▰▰▰▱▱-8E75B2?style=flat-square&logo=googlegemini&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
 <br>
+<a href="#"><img src="https://img.shields.io/badge/Groq_LLM-▰▰▰▰▱-F55036?style=flat-square&logo=groq&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-▰▰▰▰▰-F7B538?style=flat-square&logo=probot&logoColor=black&labelColor=0A0E1A&cacheSeconds=86400"></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/RAG_Pipelines-▰▰▰▱▱-EC4899?style=flat-square&logo=huggingface&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/LLM_Streaming-▰▰▰▰▱-6366F1?style=flat-square&logo=semanticrelease&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+
+<br><br>
+
+<sub><i>OpenAI · Gemini · Groq · Prompt Engineering · RAG · LLM Streaming</i></sub>
 
 </div>
 
-</td>
-</tr>
-</table>
-
 <br>
-
-<!-- ════════ CATEGORY 04 — DEV TOOLS ════════ -->
-<table>
-<tr>
-<td width="3%" bgcolor="F43F5E" align="center">
-<b><font color="FFFFFF" size="5">04</font></b>
-</td>
-<td width="97%" bgcolor="0A0E1A">
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%">
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F_DEV_TOOLS-The_Workshop-F43F5E?style=for-the-badge&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Tools-08-F43F5E?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
-&nbsp;
-<img src="https://img.shields.io/badge/Mastery-Expert-F43F5E?style=flat-square&labelColor=0A0E1A&cacheSeconds=86400">
+<!-- ════════ 04 DEV TOOLS — flowing design ════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F43F5E&text=04%20%E2%80%A2%20DEV%20TOOLS&fontSize=30&fontWeight=800&height=55&width=380&animation=fadeIn" alt="Dev Tools">
+
+<br>
+
+<sub><i>The Workshop — Editor · Versioning · CI/CD · Design · Deploy</i></sub>
 
 <br><br>
 
@@ -376,36 +290,27 @@ vibe:           "Always shipping · Always learning"
 
 <br><br>
 
-<table>
-<tr>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"></code> &nbsp;VS Code &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></code> &nbsp;GitHub &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></code> &nbsp;Git &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></code> &nbsp;Figma &nbsp;<font color="F43F5E">▰▰▰▰▱</font>
-
-</td>
-<td align="left" width="50%">
-
-<code><img height="14" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"></code> &nbsp;Vercel &nbsp;<font color="F43F5E">▰▰▰▰▰</font>  
-<code><img height="14" src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></code> &nbsp;GitHub Actions &nbsp;<font color="F43F5E">▰▰▰▱▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"></code> &nbsp;ESLint &nbsp;<font color="F43F5E">▰▰▰▰▱</font>  
-<code><img height="14" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black"></code> &nbsp;Prettier &nbsp;<font color="F43F5E">▰▰▰▰▰</font>
-
-</td>
-</tr>
-</table>
-
-<sub><i>Editor · Versioning · CI/CD · Design · Deploy · Linting</i></sub>
-
+<a href="#"><img src="https://img.shields.io/badge/VS_Code-▰▰▰▰▰-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/GitHub-▰▰▰▰▰-181717?style=flat-square&logo=github&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
 <br>
+<a href="#"><img src="https://img.shields.io/badge/Git-▰▰▰▰▰-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Figma-▰▰▰▰▱-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/Vercel-▰▰▰▰▰-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-▰▰▰▱▱-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/ESLint-▰▰▰▰▱-4B32C3?style=flat-square&logo=eslint&logoColor=white&labelColor=0A0E1A&cacheSeconds=86400"></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Prettier-▰▰▰▰▰-F7B93E?style=flat-square&logo=prettier&logoColor=black&labelColor=0A0E1A&cacheSeconds=86400"></a>
+
+<br><br>
+
+<sub><i>VS Code · GitHub · Git · Figma · Vercel · Actions · ESLint · Prettier</i></sub>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -416,7 +321,7 @@ vibe:           "Always shipping · Always learning"
 <!-- ━━━━━━ FEATURED BUILDS ━━━━━━ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=F7B538&center=true&vCenter=true&width=340&lines=FEATURED+BUILDS;%F0%9F%9A%80+FEATURED+BUILDS" alt="Featured Builds" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=FEATURED%20BUILDS&fontSize=44&fontWeight=800&height=70&width=420&animation=fadeIn" alt="Featured Builds">
 
 <sub><i>★ Products I've shipped · AI integrations · Premium UI ★</i></sub>
 
@@ -557,7 +462,7 @@ Generates refreshing tokens to track daily class attendance and logs data to loc
 <!-- ━━━━━━ GITHUB STATS ━━━━━━ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=300&lines=GITHUB+STATS;%F0%9F%93%8A+GITHUB+STATS" alt="GitHub Stats" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=GITHUB%20STATS&fontSize=44&fontWeight=800&height=70&width=360&animation=fadeIn" alt="GitHub Stats">
 
 <sub><i>★ Live contribution data · Updates every few hours ★</i></sub>
 
@@ -603,7 +508,7 @@ Generates refreshing tokens to track daily class attendance and logs data to loc
 <!-- ━━━━━━ JOURNEY TIMELINE ━━━━━━ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=280&lines=THE+JOURNEY;%F0%9F%A7%AD+THE+JOURNEY" alt="Journey" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=THE%20JOURNEY&fontSize=44&fontWeight=800&height=70&width=340&animation=fadeIn" alt="Journey">
 
 <sub><i>★ From curious beginner to AI engineer ★</i></sub>
 
@@ -670,7 +575,7 @@ Specializing in **production-grade AI-powered applications**, advanced full-stac
 <!-- ━━━━━━ CONNECT ━━━━━━ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=300&lines=LET%27S+CONNECT;%F0%9F%A4%9D+LET%27S+CONNECT" alt="Connect" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=LET%27S%20CONNECT&fontSize=44&fontWeight=800&height=70&width=360&animation=fadeIn" alt="Connect">
 
 <sub><i>★ Open to collaborations · Let's build something great ★</i></sub>
 
